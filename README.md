@@ -4,7 +4,7 @@ We have extracted the contents of blogs related to data science, technology & pr
 
 This repository contains three files - 
 ```
-1. scrape_links.ipynb - This notebook will first fetch links of blogs using selenium. It will 
+1. scrape_data.ipynb - This notebook will first fetch links of blogs using selenium. It will 
 then iterate over all the links to extract the features like text, images, links, read time, 
 followers & tags etc 
 ```
