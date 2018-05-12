@@ -18,4 +18,3 @@ of each feature in determining the number of likes
 3. random_forest.ipynb - This file will use different number of bins to split the target variable. 
 It will also extract some advanced features like sentiment score and see how well the new model fits the data
 ```
-We have built a web scrapper for scrapping the contents of medium blogs
